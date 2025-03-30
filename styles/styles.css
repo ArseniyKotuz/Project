@@ -78,8 +78,7 @@ body{
     margin: 0 auto;
 }
 .image img{
-		width: 75px;
-		/*height: 35px;*/
+    width: 75px;
 }
 .block_title {
     font-weight: bold;
@@ -152,15 +151,6 @@ body{
     transform: scale(1.05);
     transition: 1.1s;
 }
-/*.block1_block2{
-	display: flex;
-	gap: 50px
-}
-.block3_block4{
-	display: flex;
-	gap: 50px;
-	margin-top: 100px;
-}*/
 @media screen and (max-width:1335px){
     :root{
         --width_block: 430px;
